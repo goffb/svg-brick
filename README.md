@@ -18,10 +18,10 @@
 <img src="./brick11.svg" alt="brick 11" />
 <img src="./brick12.svg" alt="brick 12" />
 <br>
-
+<img src="./brick13.svg" alt="brick 13" />
 
 <br><br>
 
-<sub>part of the <a href="https://github.com/goffb/mark">make a mark</a>.</sub>
+<sub>classic badge style - part of the <a href="https://github.com/goffb/mark">make a mark</a>.</sub>
 
 </div>
