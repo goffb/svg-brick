@@ -19,6 +19,8 @@
 <img src="./brick12.svg" alt="brick 12" />
 <br>
 <img src="./brick13.svg" alt="brick 13" />
+<img src="./brick14.svg" alt="brick 14" />
+<img src="./brick15.svg" alt="brick 15" />
 
 <br><br>
 
